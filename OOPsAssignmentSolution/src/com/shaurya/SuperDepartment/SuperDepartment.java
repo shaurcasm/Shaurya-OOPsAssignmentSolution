@@ -1,6 +1,6 @@
-package com.shaurya.Super;
+package com.shaurya.SuperDepartment;
 
-public class Super {
+public class SuperDepartment {
 
 	public String departmentName() {
 		String name = " Super Department ";
@@ -21,7 +21,7 @@ public class Super {
 	}
 	
 	public String isTodayAHoliday() {
-		String isToday = " Today is not a holiday";
+		String isToday = "Today is not a Holiday";
 		
 		return isToday;
 	}
