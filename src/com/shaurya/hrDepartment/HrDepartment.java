@@ -23,7 +23,7 @@ public class HrDepartment extends SuperDepartment {
 	}
 	
 	public String doActivity() {
-		String activity = "team Lunch";
+		String activity = "Team Lunch";
 		
 		return activity;
 	}
